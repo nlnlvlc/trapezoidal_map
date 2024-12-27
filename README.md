@@ -1,4 +1,4 @@
-# Programming Assignment Three: Trapezoidal Map
+# Trapezoidal Map
 This project builds a Trapezoidal map using line segments. The map can then be used to search for the planar location
 of a user given point
 
